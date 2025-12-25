@@ -119,7 +119,7 @@ git push -u origin main
 
 * **The project is live at:**
 
-* [👉 Live URL](https://github.com/Mainuddeen00/git-devops-project)
+* [👉 Live URL](https://mainuddeen00.github.io/git-devops-project/)
 
 * Steps to Deploy:
 * Navigate to Repository Settings > Pages.
